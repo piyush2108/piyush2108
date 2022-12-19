@@ -8,7 +8,7 @@
   <img src="./avatarPiyushSharma.png" width="100"/>
   <span>I'm a Full Stack Developer and Designer from India, I really enjoy making attractive frontends for websites. I also do vector illustrations and 3d Modelling.</span>
   <ul>
-    <li>🔭I'm an Engineering Student and currently into Web Development.</li>
+    <li>🔭I'm an Engineering Student and contributing to frontend and backend web apps.</li>
     <li>☘In my spare time I love to make 3d models, make illustrartions and play guitar.</li>
     <li><a href="https://www.linkedin.com/in/piyush-sharma01/">✉Contact me</a></li>
   </ul>
