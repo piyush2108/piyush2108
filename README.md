@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center" margin="0">
   <img src="./avatarPiyushSharma.png" height:"200" width="200"/>
 </div>
 <h1 align="center">Hii there👋, I'm Piyush</h1>
