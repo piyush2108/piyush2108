@@ -49,6 +49,11 @@
 </div>
 
 <br />
+
+<h2 align="center">🐍Contribution Graph</h2>
+<div align="center">
+  <img src="https://github.com/piyush2108/piyush2108/blob/output/github-contribution-grid-snake.svg" width="800"/>
+</div>  
   
 <div align="center">  
   <h2 align="center">🤝Social Handles</h2>
@@ -62,9 +67,4 @@
   <a href="https://codepen.io/b1ngus">
     <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   </a>
-</div>
-
-<h2 align="center">🐍Contribution Graph</h2>
-<div align="center">
-  <img src="https://github.com/piyush2108/piyush2108/blob/output/github-contribution-grid-snake.svg" width="400"/>
 </div>
