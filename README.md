@@ -6,7 +6,7 @@
 <h1 align="center">Hii there👋, I'm Piyush</h1>
 <div>
 
-  <img src="./avatarPiyushSharma" width="100"/>
+  <img src="./avatarPiyushSharma.png" width="100"/>
   <h2 align="center">About Me</h2>
   <p>I'm a Full Stack Developer and Designer from India, I really enjoy making attractive frontends for websites. I also do vector illustrations and 3d Modelling.</p>
   <ul>
