@@ -7,11 +7,11 @@
 <h1 align="center">Hii <img src="./avatarPiyushSharma.png" width="100"/>, I'm Piyush</h1>
 
 <div>
-  <h4>I'm a Full Stack Developer and Designer from India, I really enjoy making attractive frontends for websites. I also do vector illustrations and 3d Modelling.</h4>
+  <h4>I'm a Full Stack Developer and Designer from India, I really enjoy making attractive frontends for websites. I do Vector Illustrations and 3d Modelling as a hobby.</h4>
   <ul>
     <li>🔭I'm an Engineering Student and contributing to frontend and backend web apps.</li>
     <li>🍃In my spare time I love to make 3d models, make illustrartions and play guitar.</li>
-    <li>📪To contact: <a href="https://www.linkedin.com/in/piyush-sharma01/">Click here</a></li>
+    <li>📪Contact: <a href="https://www.linkedin.com/in/piyush-sharma01/">Click here</a></li>
   </ul>
   <h3>Skills</h3>
   <p>⚛React, NodeJs<p>
