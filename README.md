@@ -1,4 +1,4 @@
-<h1> Hello </h1>
+<h1 align="center"> Hello </h1>
 
 <!--
 **piyush2108/piyush2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
