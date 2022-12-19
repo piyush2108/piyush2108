@@ -15,8 +15,7 @@
   <p>📅MongoDB, MySQL</p>
   <p>💻C++, Javascript, Python</p>
 </div>
-
-
+<br />
 <div align="center"> 
   <h2 align="center">🛠Languages and Tools</h2>
   
