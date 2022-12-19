@@ -63,3 +63,5 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   </a>
 </div>
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
