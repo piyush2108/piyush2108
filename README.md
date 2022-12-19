@@ -33,11 +33,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Git" alt="Git" width="40" height="40"/>
+<div />
 <br />
-<h2 align="center">🔥My Status</h2>
+<div align="center">  
+  <h2 align="center">🔥My Status</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=piyush2108&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=piyush2108&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush2108&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush2108&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
