@@ -2,8 +2,8 @@
   <img src="https://github.com/piyush2108/piyush2108/blob/main/avatarPiyushSharma.png" width="200"/>
 </div>
 <h1 align="center">Hii there👋, I'm Piyush</h1>
-<div align="center">
-  <h2>About Me</h2>
+<div>
+  <h2 align="center">About Me</h2>
   <p>I'm a Full Stack Developer and Designer from India, I really enjoy making attractive frontends for websites. I also do vector illustrations and 3d Modelling.</p>
   <br />
   <h3>Skills</h3>
@@ -27,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCss"  alt="Tailwind " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MongoDb"  alt="MongoDb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 <img src="./" alt=""/>
 <!--
 **piyush2108/piyush2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
