@@ -1,5 +1,5 @@
 <div id="header" align="center" margin="0">
-  <img src="./avatarPiyushSharma.png" height="100" width="200"/>
+  <img src="./avatarPiyushSharma.png"/>
 </div>
 <h1 align="center">Hii there👋, I'm Piyush</h1>
 <div align="center">
