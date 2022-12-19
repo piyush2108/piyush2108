@@ -1,5 +1,5 @@
 <div id="header" align="center" margin="0">
-  <img src="./avatarPiyushSharma" width="200"/>
+  <img src="https://github.com/piyush2108/piyush2108/blob/main/avatarPiyushSharma.png" width="200"/>
 </div>
 <h1 align="center">Hii there👋, I'm Piyush</h1>
 <div align="center">
