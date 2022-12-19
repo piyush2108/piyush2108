@@ -65,4 +65,6 @@
 </div>
 
 <h2 align="center">🐍Contribution Graph</h2>
-![snake gif](https://github.com/piyush2108/piyush2108/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  <img src="https://github.com/piyush2108/piyush2108/blob/output/github-contribution-grid-snake.svg" width="400"/>
+</div>
