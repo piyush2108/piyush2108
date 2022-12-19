@@ -1,5 +1,7 @@
 <div id="header" align="center" margin="0">
-  <img src="https://github.com/piyush2108/piyush2108/blob/main/avatarPiyushSharma.png" width="200"/>
+  <div align="center">
+  <img src="./Cold, rainy day by bbrunomoraes on DeviantArt.gif" width="600" height="300"/>
+</div>
 </div>
 <h1 align="center">Hii there👋, I'm Piyush</h1>
 <div>
