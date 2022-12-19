@@ -30,10 +30,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDb"  alt="MongoDb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 <img src="./" alt=""/>
----
 
-### :fire: My Stats :
-  [![GitHub Streak](https://streak-stats.demolab.com?user=piyush2108&theme=onedark_duo&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<h2 align="center">🔥My Status</h2>
+[![GitHub Streak](https://streak-stats.demolab.com?user=piyush2108&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/piyush2108/github-readme-stats)
 <!--
 **piyush2108/piyush2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
