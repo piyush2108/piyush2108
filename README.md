@@ -1,5 +1,5 @@
 <div id="header" align="center" margin="0">
-  <div align="center">
+  <div align="center" borderRadius="50">
   <img src="./Cold, rainy day by bbrunomoraes on DeviantArt.gif" width="600" height="300"/>
 </div>
 </div>
