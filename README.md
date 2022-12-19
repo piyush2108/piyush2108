@@ -1,6 +1,6 @@
 <div id="header" align="center" margin="0">
   <div align="center">
-  <img src="./Cold, rainy day by bbrunomoraes on DeviantArt.gif" width="600" height="300"/>
+  <img src="./Cold, rainy day by bbrunomoraes on DeviantArt.gif" width="400"/>
 </div>
 </div>
 <h1 align="center">Hii there👋, I'm Piyush</h1>
