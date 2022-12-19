@@ -7,7 +7,7 @@
 <div>
 
   <img src="./avatarPiyushSharma.png" width="100"/>
-  <h2 align="center">About Me</h2>
+  <span align="center">About Me</span>
   <p>I'm a Full Stack Developer and Designer from India, I really enjoy making attractive frontends for websites. I also do vector illustrations and 3d Modelling.</p>
   <ul>
     <li>🔭I'm an Engineering Student and currently into Web Development.</li>
