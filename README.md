@@ -3,11 +3,19 @@
 </div>
 <h1 align="center">Hii there👋, I'm Piyush</h1>
 <div align="center">
-  <h2 align="center" color="red">About Me</h2>
+  <h2>About Me</h2>
+  <p>I'm a Full Stack Developer and Designer from India, I really enjoy making attractive frontends for websites. I also do vector illustrations and 3d Modelling.</p>
+  <br />
+  <h3>Skills</h3>
+  <p>⚛React, NodeJs<p>
+  <p>📅MongoDB, MySQL</p>
+  <p>💻C++, Javascript, Python</p>
 </div>
 
 
 <div align="center"> 
+  <h2 align="center">Languages and Tools</h2>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
