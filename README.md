@@ -6,9 +6,9 @@
 <h1 align="center">Hii there👋, I'm Piyush</h1>
 <div>
 
+  <h2 align="center">About Me</h2>
   <img src="./avatarPiyushSharma.png" width="100"/>
-  <span align="center">About Me</span>
-  <p>I'm a Full Stack Developer and Designer from India, I really enjoy making attractive frontends for websites. I also do vector illustrations and 3d Modelling.</p>
+  <span>I'm a Full Stack Developer and Designer from India, I really enjoy making attractive frontends for websites. I also do vector illustrations and 3d Modelling.</span>
   <ul>
     <li>🔭I'm an Engineering Student and currently into Web Development.</li>
     <li>☘In my spare time I love to make 3d models, make illustrartions and play guitar.</li>
