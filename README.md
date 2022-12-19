@@ -1,10 +1,12 @@
 <div id="header" align="center" margin="0">
-  <div align="center" borderRadius="50">
+  <div align="center">
   <img src="./Cold, rainy day by bbrunomoraes on DeviantArt.gif" width="600" height="300"/>
 </div>
 </div>
 <h1 align="center">Hii there👋, I'm Piyush</h1>
 <div>
+
+  <img src="./avatarPiyushSharma" width="100"/>
   <h2 align="center">About Me</h2>
   <p>I'm a Full Stack Developer and Designer from India, I really enjoy making attractive frontends for websites. I also do vector illustrations and 3d Modelling.</p>
   <ul>
