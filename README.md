@@ -1,9 +1,10 @@
 <div id="header" align="center">
-  <img src="./avatarPiyushSharma.png" height:"200" width="200"/>
+  <img src="./avatarPiyushSharma.png" height:"250" width="250"/>
 </div>
 
+<h1 align="center">Hello there👋, I'm Piyush</h1>
+<p font-weight="bold">Developer and Designer</h3>
 
-<img src="./" alt=""/>
 <!--
 **piyush2108/piyush2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
