@@ -55,12 +55,12 @@
   <div align="center">
     <img src="https://media4.giphy.com/media/z7bPOVVLK4UiA/giphy.gif?cid=ecf05e4792q3sq8r2z5jzv7wrtobrxo533wckltlx4syhczv&rid=giphy.gif&ct=g" width="200"/>
   </div>
-  
-  <a href="https://www.linkedin.com/in/piyush-sharma01/">
+  <span>
+    <a href="https://www.linkedin.com/in/piyush-sharma01/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   </a>
   <a href="https://codepen.io/b1ngus">
     <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   </a>
-  
+  </span>
 </div>
