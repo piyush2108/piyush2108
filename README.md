@@ -47,9 +47,12 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush2108&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+<br />
   
 <div align="center">  
-  <h2 align="center">🙋‍♂️Social handles</h2>
+  <h2 align="center">🙋‍♂Social</h2>
+  <iframe src="https://giphy.com/embed/z7bPOVVLK4UiA" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/disneyanimation-animation-disney-big-hero-6-z7bPOVVLK4UiA">via GIPHY</a></p>
   <a href="https://github.com/piyush2108">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   </a>
