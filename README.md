@@ -51,7 +51,7 @@
 <br />
   
 <div align="center">  
-  <h2 align="center">🙋‍♂Social</h2>
+  <h2 align="center">🤝Social Handles</h2>
   <div align="center">
     <img src="https://media4.giphy.com/media/z7bPOVVLK4UiA/giphy.gif?cid=ecf05e4792q3sq8r2z5jzv7wrtobrxo533wckltlx4syhczv&rid=giphy.gif&ct=g" width="200"/>
   </div>
