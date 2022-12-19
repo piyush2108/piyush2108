@@ -1,12 +1,13 @@
 <div id="header" align="center" margin="0">
   <div align="center">
   <img src="./Cold, rainy day by bbrunomoraes on DeviantArt.gif" width="400"/>
+  </div>
 </div>
-</div>
+
 <h1 align="center">Hii <img src="./avatarPiyushSharma.png" width="100"/>, I'm Piyush</h1>
+
 <div>
-  
-  <span>I'm a Full Stack Developer and Designer from India, I really enjoy making attractive frontends for websites. I also do vector illustrations and 3d Modelling.</span>
+  <h4>I'm a Full Stack Developer and Designer from India, I really enjoy making attractive frontends for websites. I also do vector illustrations and 3d Modelling.</h4>
   <ul>
     <li>🔭I'm an Engineering Student and contributing to frontend and backend web apps.</li>
     <li>🍃In my spare time I love to make 3d models, make illustrartions and play guitar.</li>
@@ -17,6 +18,7 @@
   <p>📅MongoDB, MySQL</p>
   <p>💻C++, Javascript, Python</p>
 </div>
+
 <div align="center"> 
   <h2 align="center">🛠Languages and Tools</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Cplusplus" width="40" height="40"/>&nbsp;
@@ -34,7 +36,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Git" alt="Git" width="40" height="40"/>
 <div />
+  
 <br />
+  
 <div align="center">  
   <h2 align="center">🔥My Status</h2>
 
