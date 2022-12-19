@@ -1,9 +1,9 @@
 <div id="header" align="center" margin="0">
-  <img src="./avatarPiyushSharma.png" width="200"/>
+  <img src="./avatarPiyushSharma.png" height="100" width="200"/>
 </div>
 <h1 align="center">Hii there👋, I'm Piyush</h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/QQkyLVLAbQRKU/giphy-downsized-large.gif" width="100%" height="200"/>
+  <img src="https://media.giphy.com/media/QQkyLVLAbQRKU/giphy-downsized-large.gif" width="100%" height="250"/>
   <h3 align="center">About Me</h3>
 </div>
 
