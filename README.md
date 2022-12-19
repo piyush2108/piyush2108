@@ -3,9 +3,9 @@
   <img src="./Cold, rainy day by bbrunomoraes on DeviantArt.gif" width="400"/>
 </div>
 </div>
-<h1 align="center">Hii 👋, I'm Piyush</h1>
+<h1 align="center">Hii <img src="./avatarPiyushSharma.png" width="100"/>, I'm Piyush</h1>
 <div>
-  <img src="./avatarPiyushSharma.png" width="100"/>
+  
   <span>I'm a Full Stack Developer and Designer from India, I really enjoy making attractive frontends for websites. I also do vector illustrations and 3d Modelling.</span>
   <ul>
     <li>🔭I'm an Engineering Student and contributing to frontend and backend web apps.</li>
