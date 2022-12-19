@@ -33,7 +33,7 @@
 
 <h2 align="center">🔥My Status</h2>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=piyush2108&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=piyush2108&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--
 **piyush2108/piyush2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
