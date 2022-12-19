@@ -47,3 +47,17 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush2108&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+  
+<div align="center">  
+  <h2 align="center">🙋‍♂️Social handles</h2>
+  <a href="https://github.com/piyush2108">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.linkedin.com/in/piyush-sharma01/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://codepen.io/b1ngus">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  </a>
+  
+</div>
