@@ -52,7 +52,9 @@
   
 <div align="center">  
   <h2 align="center">🙋‍♂Social</h2>
-  <iframe src="https://giphy.com/embed/z7bPOVVLK4UiA" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/disneyanimation-animation-disney-big-hero-6-z7bPOVVLK4UiA">via GIPHY</a></p>
+  <div align="center">
+    <img src="https://media4.giphy.com/media/z7bPOVVLK4UiA/giphy.gif?cid=ecf05e4792q3sq8r2z5jzv7wrtobrxo533wckltlx4syhczv&rid=giphy.gif&ct=g" width="600" height="300"/>
+  </div>
   <a href="https://github.com/piyush2108">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   </a>
