@@ -7,20 +7,22 @@
 <h1 align="center">Hii <img src="./avatarPiyushSharma.png" width="100"/>, I'm Piyush</h1>
 
 <div>
-  <h4>I'm a Full Stack Developer and Designer from India, I really enjoy making attractive frontends for websites. I do Vector Illustrations and 3d Modelling as a hobby.</h4>
+  <h4>I'm a Full Stack Developer and Designer from India, I like making attractive frontend designs. I do Vector Illustrations and 3d Modelling as a hobby.</h4>
   <ul>
-    <li>🔭I'm an Engineering Student and contributing to frontend and backend web apps.</li>
-    <li>🍃In my spare time I love to make 3d models, draw illustrations and play guitar.</li>
-    <li>📪Contact: <a href="https://www.linkedin.com/in/piyush-sharma01/">Click here</a></li>
+    <li>My <a href="https://drive.google.com/file/d/1XKJ8VSfyzdzsYQDOMkI-h6CbFhnIpTt5/view?usp=sharing">Resume</a></li>
+    <li>My <a href="https://www.linkedin.com/in/piyush-sharma01/">Contact</a></li>
   </ul>
-  <h3>Skills</h3>
-  <p>⚛React, NodeJs<p>
-  <p>📅MongoDB, MySQL</p>
-  <p>💻C++, Javascript, Python</p>
+  <h3><i>Skills</i></h3>
+  <ul>
+    <li>React, NodeJs</li>
+    <li>MongoDB, MySQL</li>
+    <li>C++, Javascript, Python</li>
+    <li>Illustrator, Blender</li>
+  </ul>
 </div>
 
 <div align="center"> 
-  <h2 align="center">🛠Languages and Tools</h2>
+  <h2 align="left"><i>Languages and Tools</i></h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -35,13 +37,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDb"  alt="MongoDb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Git" alt="Git" width="40" height="40"/>
 <div />
   
 <br />
   
 <div align="center">  
-  <h2 align="center">🔥My Status</h2>
+  <h2 align="left"><i>My Status</i></h2>
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=piyush2108&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
@@ -50,16 +53,14 @@
 
 <br />
 
-<h2 align="center">📊Contribution Graph</h2>
+  <h2 align="left"><i>Contribution Graph</i></h2>
 <div align="center">
   <img src="https://github.com/piyush2108/piyush2108/blob/output/github-contribution-grid-snake.svg" width="800"/>
 </div>  
   
 <div align="center">  
-  <h2 align="center">🤝Social Handles</h2>
-  <div align="center">
-    <img src="https://media4.giphy.com/media/z7bPOVVLK4UiA/giphy.gif?cid=ecf05e4792q3sq8r2z5jzv7wrtobrxo533wckltlx4syhczv&rid=giphy.gif&ct=g" width="200"/>
-  </div>
+  <h2 align="left"><i>Social Profiles</i></h2>
+  
   
   <a href="https://www.linkedin.com/in/piyush-sharma01/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
