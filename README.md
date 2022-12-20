@@ -50,7 +50,7 @@
 
 <br />
 
-<h2 align="center">🐍Contribution Graph</h2>
+<h2 align="center">📊Contribution Graph</h2>
 <div align="center">
   <img src="https://github.com/piyush2108/piyush2108/blob/output/github-contribution-grid-snake.svg" width="800"/>
 </div>  
