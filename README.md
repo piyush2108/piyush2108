@@ -5,7 +5,7 @@
   </div>
 </div>
 
-<h1 align="center">Helo! <img src="./avatarPiyushSharma.png" width="100"/>I'm Piyush</h1>
+<h1 align="center">Hii! <img src="./avatarPiyushSharma.png" width="100"/>I'm Piyush</h1>
 
 <div>
   <h4>I'm a Full Stack Developer and Designer from India, my field of interests include Web Development, UI/UX, 3D modelling, Vector Illustration. As a hobby I like making 3d models and vector illustrations along with playing guitar.</h4>
@@ -26,6 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -34,6 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCss"  alt="Tailwind " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDb"  alt="MongoDb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
@@ -61,6 +63,9 @@
   </a>
   <a href="https://cssbattle.dev/player/Vk48mV6kFySzS6lD6VMTNE26cb72">
     <img src="https://cssbattle.dev/images/logo.svg"  title="Cssbattle" alt="Cssbattle" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://leetcode.com/piyush2108/">
+    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png"  title="Leetcode" alt="Leetcode" width="40" height="40"/>&nbsp;
   </a>
 </div>  
 
