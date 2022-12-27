@@ -33,7 +33,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCss"  alt="Tailwind " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -51,9 +50,6 @@
   <h2 align="left"><i>🤝Let's Connect</i></h2>
   <a href="https://www.linkedin.com/in/piyush-sharma01/">
     <img src="https://cdn3.iconfinder.com/data/icons/social-media-chat-1/512/LinkedIn-512.png"  title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://www.instagram.com/2108_piyush/">
-    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png"  title="Instagram" alt="Instagram" width="40" height="40"/>&nbsp;
   </a>
   <a href="https://codepen.io/b1ngus">
     <img src="https://cdn0.iconfinder.com/data/icons/social-network-27/32/codepen_logo_html_code_css_javascript_programming-256.png"  title="Codepen" alt="Codepen" width="40" height="40"/>&nbsp;
