@@ -5,7 +5,7 @@
   </div>
 </div>
 
-<h1 align="center">Hii! <img src="./avatarPiyushSharma.png" width="100"/>I'm Piyush</h1>
+<h1 align="center">Hello<img src="./avatarPiyushSharma.png" width="100"/>I'm Piyush</h1>
 
 <div>
   <h4 align="center">I'm a Full Stack Developer and Designer from India, my field of interests include Web Development, UI/UX, 3D modelling, Vector Illustration. As a hobby I like making 3d models and vector illustrations along with playing guitar.</h4>
@@ -21,7 +21,7 @@
 </ul>
 
 <div align="center"> 
-  <h2 align="left"><i>👾Some Tools, Tech and Languages I use</i></h2>
+  <h2 align="left">⚙Some Tools, Tech and Languages I use</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="Cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -47,7 +47,7 @@
 <br />
 
 <div align="center">  
-  <h2 align="left"><i>🤝Let's Connect</i></h2>
+  <h2 align="left">🤝Let's Connect</h2>
   <a href="https://www.linkedin.com/in/piyush-sharma01/">
     <img src="https://cdn3.iconfinder.com/data/icons/social-media-chat-1/512/LinkedIn-512.png"  title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
   </a>
@@ -68,7 +68,7 @@
 <br />
   
 <div align="center">  
-  <h2 align="left"><i>🔥Github History</i></h2>
+  <h2 align="left">🔎Github History</h2>
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=piyush2108&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyush2108&show_icons=true&locale=en&theme=tokyonight)
