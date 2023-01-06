@@ -73,11 +73,4 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=piyush2108&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyush2108&show_icons=true&locale=en&theme=tokyonight)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush2108&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  <div align="center">
-    <img src="https://github.com/piyush2108/piyush2108/blob/output/github-contribution-grid-snake.svg" width="800"/>
-  </div> 
 </div>
-
-<br />
-  
-
