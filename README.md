@@ -9,7 +9,8 @@
 
 <div>
   <h4 align="center">I'm a Full Stack Developer and Designer from India, my field of interests include Web Development, UI/UX, 3D modelling, Vector Illustration. As a hobby I like making 3d models and vector illustrations along with playing guitar.</h4>
-  <h4 align="center"><img src="https://cdn1.iconfinder.com/data/icons/leto-files/64/leto_files-14-256.png" title="Resume" alt="Resume" width="30" height="30"/><b>Checkout my </u></b><a target="_blank" href="https://drive.google.com/file/d/1XKJ8VSfyzdzsYQDOMkI-h6CbFhnIpTt5/view?usp=sharing">Resume</a></h4>
+  <h4 align="center"><b>📂Checkout my </u></b><a target="_blank" href="https://drive.google.com/file/d/1XKJ8VSfyzdzsYQDOMkI-h6CbFhnIpTt5/view?usp=sharing">Resume</a></h4>
+  <h4 align="center"><b>🌐Visit my </u></b><a target="_blank" href="https://www.piyusharmap.com">Website</a></h4>
 </div>
   
 <h3><i>Skills</i></h3>
